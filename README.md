@@ -1,5 +1,4 @@
-Project Title
-Pandas
+Project Title - Pandas
 
 Summary
 This repository contains a data analytis project utilizing Pandas.
