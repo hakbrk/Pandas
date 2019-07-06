@@ -1,7 +1,6 @@
 Project Title - Pandas
 
-Summary
-This repository contains a data analytis project utilizing Pandas.
+Summary - This repository contains a data analytis project utilizing Pandas.
 
 PyCitySchools - I was given two data files in csv format containing school and student performance data.  I was asked to provide two observeable trends based on the data.  Based on the observed trends it would appear that Student Performce can be expected to be higher at a smaller school with a lower per student budget.  In addition a Charter School would appear to outperform District Schools, but as Charter Schools appear to be smaller in Student population this may just be restating the first observation.
 
